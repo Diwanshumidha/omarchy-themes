@@ -5,6 +5,7 @@ Themes for [Omarchy](https://omarchy.org/).
 | Theme | Preview |
 |---|---|
 | [Zoro Night](zoro-night/) | <img src="zoro-night/preview.png" width="480"> |
+| [Giyu Night](giyu-night/) | <img src="giyu-night/preview.png" width="480"> |
 
 ## Install a theme
 
